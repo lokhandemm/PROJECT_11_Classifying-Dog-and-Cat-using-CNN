@@ -1,6 +1,6 @@
 # Classifying Dog and Cat using CNN
                     
-## Dataset Description  
+## Dataset Description   
  
 The **Dog vs Cat** image classification dataset consists of **8005 images** for training and **2023 images** for testing, divided into two classes:
 
