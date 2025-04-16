@@ -7,7 +7,7 @@ The **Dog vs Cat** image classification dataset consists of **8005 images** for 
 1. **Class I** = Dog 🐶  
 2. **Class II** = Cat 🐱  
  
-![Dataset Sample](https://imgur.com/d8Qd1hD.gif)
+![Dataset Sample](https://imgur.com/d8Qd1hD.gif) 
 
 ---
 
