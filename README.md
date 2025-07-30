@@ -1,4 +1,4 @@
-# Classifying Dog and Cat using CNN
+# Classifying Dog and Cat using CNN 
                      
 ## Dataset Description   
  
